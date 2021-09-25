@@ -76,7 +76,7 @@ Hello! My name is Jaxon Lee, and I am a freshman studying Computer Science at th
 ### **School**
 <details>
   <summary><a href="https://github.com/Gidntsquia/Computer_Science_IA"> Recipe Manager </a> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <code>Java ☕</code> </summary>
-    &emsp; (PICTURE HERE) <br>
+    &emsp; (Picture not yet in) <br>
     &emsp; <b> IB Computer Science SL </b> <br>
     &emsp; <i> April 2021 </i> <br>
     &emsp; A program that organizes user-inputted recipes practically. Made to suit needs of the client who requested this program.  <br>
@@ -84,11 +84,11 @@ Hello! My name is Jaxon Lee, and I am a freshman studying Computer Science at th
 
 <details>
   <summary><a href="https://github.com/Gidntsquia/math_IA"> Robot Tournament Simulator </a> &emsp; &emsp; <code>Python 🐍</code> </summary>
-    &emsp; (PICTURE HERE) <br>
+    &emsp; (Picture not yet in) <br>
     &emsp; <b> IB Mathematics HL </b> <br>
     &emsp; <i> April 2021 </i> <br>
     &emsp; Simulates a tournament of adversarial robots and calculates the win probablities for each robot based on initial conditions.  <br>
-    &emsp; Academic paper: [paper_1]()
+    &emsp; Academic paper: <a href=""> paper_1 </a>
 </details>
 
 

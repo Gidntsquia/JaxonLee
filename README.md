@@ -2,7 +2,7 @@
 Hello, friend! My name is Jaxon Lee, and I am a freshman studying Computer Science at the Univeristy of Maryland. Here is a portfolio of all my projects!
 
 ## Skills 
-`Java ☕` `Python 🐍` `C# 🇨` `Unity 🎮` `MATLAB ➗` `Adobe Photoshop 🎨` `Illustrator ✒️` `Premiere Pro 🎥` `Youtube Optimization 👍` `Ultimaker Cura 📃` `AutoDesk Inventor AutoCAD 💻`
+`Java ☕` `Python 🐍` `C# 🇨` `Unity 🎮` `MATLAB ➗` `Adobe Photoshop 🎨` `Illustrator ✒️` `Premiere Pro 🎥` `Youtube ▶️` `Ultimaker Cura 📃` `AutoDesk Inventor AutoCAD 💻`
 
 
 ## Projects
@@ -63,19 +63,29 @@ Hello, friend! My name is Jaxon Lee, and I am a freshman studying Computer Scien
 </details>
 
 
+<details>
+  <summary><a href="https://github.com/Gidntsquia/Rick-Roll-Generator2"> Rick Roll Generator </a> <code>Java ☕</code> </a> <code>Youtube ▶️</code></summary>
+    &emsp; <img src="https://user-images.githubusercontent.com/32310846/134787361-085c4be5-c5aa-419d-a3c8-71a7529a75ca.jpg" alt="Incredibots2021Github" width="500"> <br>
+    &emsp; <b> MocoHacks2021 Submission </b> <br>
+    &emsp; <i> March 2021 </i> <br>
+    &emsp; You input a name and thumbnail and out pops a disguised "Never Gonna Give You Up" YouTube video you can rick roll your friends with. The program no longer works since the uploaded video is immediately copyright striked and taken down.
+</details>
 
-`Java ☕`\
-&emsp; [Rick Roll Generator](https://github.com/Gidntsquia/Rick-Roll-Generator2) 2021\
-&emsp; _MocoHacks2021_
 
 ### **School**
-`Python 🐍`\
-&emsp; [Robot Tournament Simulator](https://github.com/Gidntsquia/math_IA) April 2021 \
-&emsp; _IB Mathematics_\
-&emsp; (PICTURE HERE)\
-&emsp; Academic paper: [paper_1]()
+<details>
+  <summary><a href="https://github.com/Gidntsquia/math_IA"> Robot Tournament Simulator </a> <code>Python 🐍</code> </summary>
+    &emsp; (PICTURE HERE) <br>
+    &emsp; <b> IB Mathematics </b> <br>
+    &emsp; <i> April 2021 </i> <br>
+    &emsp; Simulates a tournament of adversarial robots and calculates the win probablities for each robot based on initial conditions.  <br>
+    &emsp; Academic paper: [paper_1]()
+</details>
 
-`Java ☕`\
-&emsp; [Recipe Manager](https://github.com/Gidntsquia/Computer_Science_IA) April 2021 \
-&emsp; _IB Computer Science_ \
-&emsp; (Picture HERE)\
+<details>
+  <summary><a href="https://github.com/Gidntsquia/Computer_Science_IA"> Recipe Manager </a> <code>Java ☕</code> </summary>
+    &emsp; (PICTURE HERE) <br>
+    &emsp; <b> IB Computer Science </b> <br>
+    &emsp; <i> April 2021 </i> <br>
+    &emsp; A program that organizes user-inputted recipes practically. Made to suit needs of the client who requested this program.  <br>
+</details>

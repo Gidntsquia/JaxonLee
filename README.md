@@ -29,7 +29,8 @@ Hello, friend! My name is Jaxon Lee, and I am a freshman studying Computer Scien
     &emsp; <img src="https://user-images.githubusercontent.com/32310846/134784911-cdcff4ad-893a-4aa9-94ff-7b0db8887230.JPG" alt="Incredibots2021Github" width="500"> <br>
     &emsp; <b> Rockville High School Club </b> <br>
     &emsp; <i> July 2021 </i> <br>
-    &emsp; A simplified version of earlier Incredibots librariwa for future botballers at Rockville High School. <br>
+    &emsp; A simplified version of earlier Incredibots library for future botballers at Rockville High School. <br>
+    &emsp; There was no international tournament this year. 
     
 </details>
 
@@ -39,20 +40,29 @@ Hello, friend! My name is Jaxon Lee, and I am a freshman studying Computer Scien
     &emsp; <b> Rockville High School Club </b> <br>
     &emsp; <i> July 2020 </i> <br>
     &emsp; An object-oriented version of the Incredibots library, which was theorized to be possible for many years. <br>
+    &emsp; There was no international tournament this year. 
+    
+</details>
+
+<details>
+  <summary><a href="https://github.com/rockvillerobotics/Incredibots2019"> Botball Robotics Club 2019 </a> <code>Python 🐍</code> </summary>
+    &emsp; <img src="https://user-images.githubusercontent.com/32310846/134784231-87d0bd8d-85a0-46d2-8126-e10f31dad41f.jpg" alt="Incredibots2019Github" width="500"> <br>
+    &emsp; <b> Rockville High School Club </b> <br>
+    &emsp; <i> July 2019 </i> <br>
+    &emsp; Code from the 2019 Global Conference on Educational Robotics (GCER). I led the team to 5th Place Overall. <br>
+    
+</details>
+
+<details>
+  <summary><a href="https://github.com/rockvillerobotics/Incredibots2018"> Botball Robotics Club 2018 </a> <code>Python 🐍</code> </summary>
+    &emsp; <img src="https://user-images.githubusercontent.com/32310846/134784229-d74531bf-9e21-473e-97bd-5903eda6fd7e.JPG" alt="Incredibots2018Github" width="500"> <br>
+    &emsp; <b> Rockville High School Club </b> <br>
+    &emsp; <i> July 2018 </i> <br>
+    &emsp; Code from the 2018 Global Conference on Educational Robotics. I led the team to 10th place overall.  <br>
     
 </details>
 
 
-
-`Python 🐍`\
-&emsp; [Botball Robotics Club](https://github.com/rockvillerobotics/Incredibots2019) 2019\
-&emsp; _Rockville High School Club_\
-<img src="https://user-images.githubusercontent.com/32310846/134784231-87d0bd8d-85a0-46d2-8126-e10f31dad41f.jpg" alt="Incredibots2019Github" width="500">
-
-`Python 🐍`\
-&emsp; [Botball Robotics Club](https://github.com/rockvillerobotics/Incredibots2018) 2018\
-&emsp; _Rockville High School Club_\
-<img src="https://user-images.githubusercontent.com/32310846/134784229-d74531bf-9e21-473e-97bd-5903eda6fd7e.JPG" alt="Incredibots2018Github" width="500">
 
 `Java ☕`\
 &emsp; [Rick Roll Generator](https://github.com/Gidntsquia/Rick-Roll-Generator2) 2021\

@@ -7,25 +7,42 @@ Hello, friend! My name is Jaxon Lee, and I am a freshman studying Computer Scien
 
 ## Projects
 ### **Personal**
-`C# 🇨`\
-&emsp; ["Penrose"](https://github.com/Gidntsquia/Project-Penrose) January 2020\
-&emsp; _Unity_\
-<img src="https://user-images.githubusercontent.com/32310846/134785032-fe755214-70c6-4858-a0dd-ecc464cf115b.JPG" alt="Incredibots2021Github" width="500">
 
-`C# 🇨`\
-&emsp; ["Got Steam, Punk?"](https://tarrott.itch.io/got-steam-punk) September 2021\
-&emsp; _Unity_\
-<img src="https://user-images.githubusercontent.com/32310846/134785093-d9b97f02-daeb-44e5-bbc9-f48ccb58530b.png" alt="Incredibots2021Github" width="500">
 
-`Python 🐍`\
-&emsp; [Botball Robotics Club](https://github.com/rockvillerobotics/IncredibotsLibrary) 2021\
-&emsp; _Rockville High School Club_\
-<img src="https://user-images.githubusercontent.com/32310846/134784911-cdcff4ad-893a-4aa9-94ff-7b0db8887230.JPG" alt="Incredibots2021Github" width="500">
+<details>
+  <summary><a href="https://github.com/Gidntsquia/Project-Penrose">"Penrose" </a> <code>C# 🇨</code>  <code>Unity 🎮</code> </summary>
+    &emsp; <img src="https://user-images.githubusercontent.com/32310846/134785032-fe755214-70c6-4858-a0dd-ecc464cf115b.JPG" alt="PenroseGithu" width="500"> <br>
+    &emsp; <i> January 2020 </i> <br>
+    &emsp; A puzzle video game dealing with anxiety, insecurity, and depression. <br>
+</details>
 
-`Python 🐍`\
-&emsp; [Botball Robotics Club](https://github.com/rockvillerobotics/Incredibots2020) 2020\
-&emsp; _Rockville High School Club_\
-<img src="https://user-images.githubusercontent.com/32310846/134784234-8ce1f6f0-4225-48c6-9161-43a2c53c2c79.JPG" alt="Incredibots2020Github" width="500">
+<details>
+  <summary><a href="https://tarrott.itch.io/got-steam-punk">"Got Steam, Punk?" </a> <code>C# 🇨</code>  <code>Unity 🎮</code></summary>
+    &emsp; <img src="https://user-images.githubusercontent.com/32310846/134785093-d9b97f02-daeb-44e5-bbc9-f48ccb58530b.png" alt="GotSteamPunkGithub" width="500"> <br>
+    &emsp; <i> September 2021 </i> <br>
+    &emsp; Race to keep a steam ship afloat as you are attacked by pirates. <br>
+    
+</details>
+
+<details>
+  <summary><a href="https://github.com/rockvillerobotics/IncredibotsLibrary"> Botball Robotics Club 2021 </a> <code>Python 🐍</code> </summary>
+    &emsp; <img src="https://user-images.githubusercontent.com/32310846/134784911-cdcff4ad-893a-4aa9-94ff-7b0db8887230.JPG" alt="Incredibots2021Github" width="500"> <br>
+    &emsp; <b> Rockville High School Club </b> <br>
+    &emsp; <i> July 2021 </i> <br>
+    &emsp; A simplified version of earlier Incredibots librariwa for future botballers at Rockville High School. <br>
+    
+</details>
+
+<details>
+  <summary><a href="https://github.com/rockvillerobotics/Incredibots2020"> Botball Robotics Club 2020 </a> <code>Python 🐍</code> </summary>
+    &emsp; <img src="https://user-images.githubusercontent.com/32310846/134784234-8ce1f6f0-4225-48c6-9161-43a2c53c2c79.JPG" alt="Incredibots2020Github" width="500"> <br>
+    &emsp; <b> Rockville High School Club </b> <br>
+    &emsp; <i> July 2020 </i> <br>
+    &emsp; An object-oriented version of the Incredibots library, which was theorized to be possible for many years. <br>
+    
+</details>
+
+
 
 `Python 🐍`\
 &emsp; [Botball Robotics Club](https://github.com/rockvillerobotics/Incredibots2019) 2019\

@@ -1,10 +1,12 @@
 # Jaxon Lee 
-### Skills: 
+Hello, friend! My name is Jaxon Lee, and I am a freshman studying Computer Science at the Univeristy of Maryland. Here is a portfolio of all my projects!
+
+## Skills 
 `Java ☕` `Python 🐍` `C# 🇨` `Unity 🎮` `MATLAB ➗` `Adobe Photoshop 🎨` `Illustrator ✒️` `Premiere Pro 🎥` `Youtube Optimization 👍` `Ultimaker Cura 📃` `AutoDesk Inventor AutoCAD 💻`
 
 
-### Projects:
-#### **Personal**
+## Projects
+### **Personal**
 `C# 🇨`\
 &emsp; ["Penrose"](https://github.com/Gidntsquia/Project-Penrose) January 2020\
 &emsp; _Unity_\
@@ -39,7 +41,7 @@
 &emsp; [Rick Roll Generator](https://github.com/Gidntsquia/Rick-Roll-Generator2) 2021\
 &emsp; _MocoHacks2021_
 
-#### **School**
+### **School**
 `Python 🐍`\
 &emsp; [Robot Tournament Simulator](https://github.com/Gidntsquia/math_IA) April 2021 \
 &emsp; _IB Mathematics_\

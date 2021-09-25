@@ -1,5 +1,5 @@
 # Jaxon Lee 
-Hello! My name is Jaxon Lee, and I am a freshman studying Computer Science at the Univeristy of Maryland. Here is a portfolio of all my projects!
+Hello! My name is Jaxon Lee, and I am a freshman undergrad studying Computer Science at the Univeristy of Maryland. Here is a portfolio of all my projects!
 
 ## Skills 
 `Java ☕` `Python 🐍` `C# 🇨` `Unity 🎮` `MATLAB ➗` `Adobe Photoshop 🎨` `Illustrator ✒️` `Premiere Pro 🎥` `Youtube ▶️` `Ultimaker Cura 📃` `AutoDesk Inventor AutoCAD 💻`

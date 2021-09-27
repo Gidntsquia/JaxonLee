@@ -59,7 +59,6 @@ Hello! My name is Jaxon Lee, and I am a freshman pursuing a B.S. in Computer Sci
     &emsp; Code from the 2019 Global Conference on Educational Robotics (GCER). I led the team to 5th Place Overall. <br>
     
 </details>
-
 <details>
   <summary><a href="https://github.com/rockvillerobotics/Incredibots2018"> Botball Robotics Club 2018 </a> &emsp; &emsp;&emsp; <code>Python 🐍</code> </summary>
     &emsp; <img src="https://user-images.githubusercontent.com/32310846/134784229-d74531bf-9e21-473e-97bd-5903eda6fd7e.JPG" alt="Incredibots2018Github" width="500"> <br>
@@ -84,11 +83,11 @@ Hello! My name is Jaxon Lee, and I am a freshman pursuing a B.S. in Computer Sci
 
 <details>
   <summary><a href="https://github.com/Gidntsquia/math_IA"> Robot Tournament Simulator </a> &emsp; &emsp; <code>Python 🐍</code> </summary>
-    &emsp; (Picture not yet in) <br>
+    &emsp; <img src="https://user-images.githubusercontent.com/32310846/134941269-d677bce7-fffe-4145-a4f8-58c71ad6b5b4.JPG" alt="RobotTournamentSimulatorGithub" width="500"> <br>
     &emsp; <b> IB Mathematics HL </b> <br>
     &emsp; <i> April 2021 </i> <br>
     &emsp; Simulates a tournament of adversarial robots and calculates the win probablities for each robot based on initial conditions.  <br>
-    &emsp; Academic paper: <a href=""> paper_1 </a>
+    &emsp; Academic paper: <a href="https://github.com/Gidntsquia/JaxonLee/files/7237609/Lee_IB_Math_IA.pdf"> paper_1 </a>
 </details>
 
 

@@ -11,6 +11,7 @@ Hello! My name is Jaxon Lee, and I am a freshman pursuing a B.S. in Computer Sci
 <details>
   <summary><a href="https://gidntsquia.itch.io/ghosts-cant-go-on-dates">"Ghosts CAN'T Go on Dates" </a> &emsp; &emsp;&emsp;<code>C# 🇨</code>  <code>Unity 🎮</code></summary>
     &emsp; <img src="https://user-images.githubusercontent.com/32310846/139782380-080ba797-c760-4cdc-aaf6-cadc6b670a69.JPG" alt="GhostGameGithub" width="500"> <br>
+    &emsp; <b> CounterTempo Studios Game </b> <br>
     &emsp; <i> October 2021 </i> <br>
     &emsp; Help Mr. Ghost navigate a precarious date in this Halloween-themed dating sim. <br>
     &emsp; Game code: <a href="https://github.com/Gidntsquia/HalloweenGameJam2021"> HalloweenGameJam2021</a>
@@ -20,6 +21,7 @@ Hello! My name is Jaxon Lee, and I am a freshman pursuing a B.S. in Computer Sci
 <details>
   <summary><a href="https://tarrott.itch.io/got-steam-punk">"Got Steam, Punk?" </a> &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<code>C# 🇨</code>  <code>Unity 🎮</code></summary>
     &emsp; <img src="https://user-images.githubusercontent.com/32310846/134785093-d9b97f02-daeb-44e5-bbc9-f48ccb58530b.png" alt="GotSteamPunkGithub" width="500"> <br>
+    &emsp; <b> CounterTempo Studios Game </b> <br>
     &emsp; <i> September 2021 </i> <br>
     &emsp; Race to keep a steam ship afloat as you are attacked by pirates. <br>
     
@@ -28,6 +30,7 @@ Hello! My name is Jaxon Lee, and I am a freshman pursuing a B.S. in Computer Sci
 <details>
   <summary><a href="https://github.com/Gidntsquia/Project-Penrose">"Penrose" </a> &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <code>C# 🇨</code><code>Unity 🎮</code> </summary>
     &emsp; <img src="https://user-images.githubusercontent.com/32310846/134785032-fe755214-70c6-4858-a0dd-ecc464cf115b.JPG" alt="PenroseGithu" width="500"> <br>
+    &emsp; <b> CounterTempo Studios Game </b> <br>
     &emsp; <i> January 2020 </i> <br>
     &emsp; A puzzle video game dealing with anxiety, insecurity, and depression. <br>
 </details>

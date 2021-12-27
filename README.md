@@ -1,11 +1,13 @@
-# Jaxon Lee 
+# Jaxon Lee
+
 Hello! My name is Jaxon Lee, and I am a freshman pursuing a B.S. in Computer Science at the Univeristy of Maryland. Here is a portfolio of all my projects!
 
-## Skills 
+## Skills
+
 `Java ☕` `Python 🐍` `C# 🇨` `Unity 🎮` `MATLAB ➗` `Adobe Photoshop 🎨` `Illustrator ✒️` `Premiere Pro 🎥` `Youtube ▶️` `Ultimaker Cura 📃` `AutoDesk Inventor AutoCAD 💻`
 
-
 ## Projects
+
 ### **Personal**
 
 <details>
@@ -15,7 +17,7 @@ Hello! My name is Jaxon Lee, and I am a freshman pursuing a B.S. in Computer Sci
     &emsp; <i> October 2021 </i> <br>
     &emsp; Help Mr. Ghost navigate a precarious date in this Halloween-themed dating sim. <br>
     &emsp; Game code: <a href="https://github.com/Gidntsquia/HalloweenGameJam2021"> HalloweenGameJam2021</a>
-    
+
 </details>
 
 <details>
@@ -24,7 +26,7 @@ Hello! My name is Jaxon Lee, and I am a freshman pursuing a B.S. in Computer Sci
     &emsp; <b> CounterTempo Studios Game </b> <br>
     &emsp; <i> September 2021 </i> <br>
     &emsp; Race to keep a steam ship afloat as you are attacked by pirates. <br>
-    
+
 </details>
 
 <details>
@@ -49,8 +51,8 @@ Hello! My name is Jaxon Lee, and I am a freshman pursuing a B.S. in Computer Sci
     &emsp; <b> Rockville High School Club </b> <br>
     &emsp; <i> July 2021 </i> <br>
     &emsp; A simplified version of earlier Incredibots library for future botballers at Rockville High School. <br>
-    &emsp; There was no international tournament this year. 
-    
+    &emsp; There was no international tournament this year.
+
 </details>
 
 <details>
@@ -59,7 +61,7 @@ Hello! My name is Jaxon Lee, and I am a freshman pursuing a B.S. in Computer Sci
     &emsp; <b> Rockville High School Club </b> <br>
     &emsp; <i> July 2020 </i> <br>
     &emsp; An object-oriented version of the Incredibots library, which was theorized to be possible for many years. <br>
-    &emsp; There was no international tournament this year. 
+    &emsp; There was no international tournament this year.
 </details>
 
 <details>
@@ -68,7 +70,7 @@ Hello! My name is Jaxon Lee, and I am a freshman pursuing a B.S. in Computer Sci
     &emsp; <b> Rockville High School Club </b> <br>
     &emsp; <i> July 2019 </i> <br>
     &emsp; Code from the 2019 Global Conference on Educational Robotics (GCER). I led the team to 5th Place Overall. <br>
-    
+
 </details>
 <details>
   <summary><a href="https://github.com/rockvillerobotics/Incredibots2018"> Botball Robotics Club 2018 </a> &emsp; &emsp;&emsp; <code>Python 🐍</code> </summary>
@@ -76,14 +78,11 @@ Hello! My name is Jaxon Lee, and I am a freshman pursuing a B.S. in Computer Sci
     &emsp; <b> Rockville High School Club </b> <br>
     &emsp; <i> July 2018 </i> <br>
     &emsp; Code from the 2018 Global Conference on Educational Robotics. I led the team to 10th place overall.  <br>
-    
+
 </details>
 
-
-
-
-
 ### **School**
+
 <details>
   <summary><a href="https://github.com/Gidntsquia/Computer_Science_IA"> Recipe Manager </a> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <code>Java ☕</code> </summary>
     &emsp; (Picture not yet in) <br>
@@ -100,7 +99,6 @@ Hello! My name is Jaxon Lee, and I am a freshman pursuing a B.S. in Computer Sci
     &emsp; Simulates a tournament of adversarial robots and calculates the win probablities for each robot based on initial conditions.  <br>
     &emsp; Academic paper: <a href="https://github.com/Gidntsquia/JaxonLee/files/7237609/Lee_IB_Math_IA.pdf"> paper_1 </a>
 </details>
-
 
 **Non-Coding**
 <details>

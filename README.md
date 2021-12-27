@@ -60,7 +60,6 @@ Hello! My name is Jaxon Lee, and I am a freshman pursuing a B.S. in Computer Sci
     &emsp; <i> July 2020 </i> <br>
     &emsp; An object-oriented version of the Incredibots library, which was theorized to be possible for many years. <br>
     &emsp; There was no international tournament this year. 
-    
 </details>
 
 <details>
@@ -103,3 +102,11 @@ Hello! My name is Jaxon Lee, and I am a freshman pursuing a B.S. in Computer Sci
 </details>
 
 
+**Non-Coding**
+<details>
+  <summary><a href=""> Youtube Channel </a> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <code>Youtube ▶️</code> </summary>
+    &emsp; (Picture not yet in) <br>
+    &emsp; <b> IB Computer Science SL </b> <br>
+    &emsp; <i> April 2021 </i> <br>
+    &emsp; A program that organizes user-inputted recipes practically. Made to suit needs of the client who requested this program.  <br>
+</details>

@@ -104,5 +104,9 @@ Hello! My name is Jaxon Lee, and I am a freshman pursuing a B.S. in Computer Sci
 **Non-Coding**
 <details>
   <summary><a href="https://www.youtube.com/channel/UCl4P6TU9ZVBzljqZhjCjXfg"> Youtube Channel </a> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; <code>Youtube ▶️</code> </summary>
-    &emsp;
+    &emsp; I edit videos for this YouTube channel.
+    &emsp; Views:
+    &emsp; Watch time:
+    &emsp; Subscribers: 
+
 </details>
